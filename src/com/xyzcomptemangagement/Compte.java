@@ -67,6 +67,10 @@ public class Compte {
     }
     public void addOperation (Operation operation){
       operations.add(operation);
+      if (operation.getType().equals("Vers"))
+          solde=solde+operation.getMontant();
+        if (operation.getType().equals("RETR"))
+            solde=solde-operation.getMontant();
     }
 }
 
