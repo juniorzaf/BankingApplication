@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7ee9e77-2d16-4cd2-a845-f5a22f9c6089" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gestion_comptes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xyzcomptemangagement/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xyzcomptemangagement/Compte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xyzcomptemangagement/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xyzcomptemangagement/program.java" afterDir="false" />
-    </list>
+    <list default="true" id="b7ee9e77-2d16-4cd2-a845-f5a22f9c6089" name="Changes" comment="First Commit of my banking application" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +44,28 @@
       <option name="presentableId" value="Default" />
       <updated>1663103918210</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit of my banking application">
+      <created>1663108292821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663108292821</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit of my banking application">
+      <created>1663108439186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663108439186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit of my banking application">
+      <created>1663108481485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663108481485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit of my banking application" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit of my banking application" />
   </component>
 </project>
